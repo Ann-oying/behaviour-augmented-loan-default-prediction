@@ -51,8 +51,8 @@ The data consists of:
 
 Both datasets are **merged at the user level** to form a **multimodal borrower representation**.
 
-**Access link:**
-Drive Folder → https://drive.google.com/drive/folders/1Ka63qxIAkzUvnEiuO5YQ3EIXQsztuX3u?usp=sharing
+Access link: Drive Folder → https://drive.google.com/drive/folders/1Ka63qxIAkzUvnEiuO5YQ3EIXQsztuX3u?usp=sharing
+
 ---
 
 ## End-to-End ML Pipeline
